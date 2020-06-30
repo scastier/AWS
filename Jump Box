@@ -1,3 +1,0 @@
-#Jump box creation
-Goal is to allow access to the Jump Box ressource from Internet.
-Then, the Jump Box allows us to connect to other ressources which are not directly accessible from the Internet.
