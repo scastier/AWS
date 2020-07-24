@@ -4,4 +4,4 @@
 2) Thanks to this picture we evaluate how old he is
 3) If he is 18 minimum we allow him to access a specific website.
 
-![Web App architecture](http://url/to/img.png)
+![Web App architecture](https://github.com/scastier/AWS/tree/master/ServerlessWebApp/media/ServerlessWebAppSeb.png)
