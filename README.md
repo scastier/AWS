@@ -17,13 +17,6 @@ AWS workshops
 
 * [Hosting a web page](https://github.com/scastier/AWS/blob/master/S3%20hosting%20a%20web%20page/Assignment%202a%20-%20S3%20hosting%20a%20web%20page.pdf)
 
-* 
-
-* 
-
-* 
-
-* 
 
 
 
