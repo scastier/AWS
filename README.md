@@ -15,7 +15,7 @@ AWS workshops
 
 * [Apache server](https://github.com/scastier/AWS/blob/master/Apache%20server/Assignment%204%20-%20Apache%20server%20with%20php%20page.pdf)
 
-* 
+* [Hosting a web page](https://github.com/scastier/AWS/blob/master/S3%20hosting%20a%20web%20page/Assignment%202a%20-%20S3%20hosting%20a%20web%20page.pdf)
 
 * 
 
